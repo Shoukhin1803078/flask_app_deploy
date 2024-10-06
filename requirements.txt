@@ -1,7 +1,7 @@
 Gunicorn
-Flask==2.2.3
-Werkzeug==2.2.3
-groq==0.3.1
-Flask-Caching==2.0.2
-Flask-Limiter==3.3.0
-python-docx==0.8.11
+Flask
+Werkzeug
+groq
+Flask-Caching
+Flask-Limiter
+python-docx
